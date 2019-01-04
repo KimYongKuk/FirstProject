@@ -9914,11 +9914,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KYK\\Documents\\Visual Studio 2017\\Projects\\CORE_HRProject_최신\\CORE_HRProject\\CORE_HRProject.csproj",
+      "projectUniqueName": "D:\\git\\CORE_HRProject_최신\\CORE_HRProject\\CORE_HRProject.csproj",
       "projectName": "CORE_HRProject",
-      "projectPath": "C:\\Users\\KYK\\Documents\\Visual Studio 2017\\Projects\\CORE_HRProject_최신\\CORE_HRProject\\CORE_HRProject.csproj",
+      "projectPath": "D:\\git\\CORE_HRProject_최신\\CORE_HRProject\\CORE_HRProject.csproj",
       "packagesPath": "C:\\Users\\KYK\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KYK\\Documents\\Visual Studio 2017\\Projects\\CORE_HRProject_최신\\CORE_HRProject\\obj\\",
+      "outputPath": "D:\\git\\CORE_HRProject_최신\\CORE_HRProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
